@@ -44,6 +44,14 @@ import coot_gui_api
 import generic_objects
 import coot_fitting
 
+set_font_size                  = coot.set_font_size
+set_scroll_by_wheel_mouse      = coot.set_scroll_by_wheel_mouse
+ROTAMERSEARCHLOWRES            = coot.ROTAMERSEARCHLOWRES
+set_map_sampling_rate          = coot.set_map_sampling_rate
+set_smooth_scroll_flag         = coot.set_smooth_scroll_flag
+set_rotation_centre_size       = coot.set_rotation_centre_size
+set_show_environment_distances = coot.set_show_environment_distances
+allow_duplicate_sequence_numbers = coot.allow_duplicate_sequence_numbers
 delete_checked_waters_baddies  = coot.delete_checked_waters_baddies
 set_imol_refinement_map        = coot.set_imol_refinement_map
 imol_refinement_map            = coot.imol_refinement_map
