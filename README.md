@@ -6,7 +6,7 @@ Transition from coot 0.9.x to Coot 1.x
 
 ### Way 1: Run Coot 0.9.x (ARM Linux) on macOS
 - https://drive.google.com/drive/folders/1klDIpBIr76bhaoQf1kKVQrSaTAzGoRuE?usp=sharing
-- Fully supports coot 0.9 scripts
+- Run smoothly and Fully supports coot 0.9 scripts
 
 ### Way 2: Use a compatibility layer to run old Python code (Coot 0.9.x) in Coot 1.x on macOS
 - Only need to change `print xx` → `print()`
