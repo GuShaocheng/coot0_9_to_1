@@ -1,4 +1,5 @@
 https://drive.google.com/drive/u/1/folders/1klDIpBIr76bhaoQf1kKVQrSaTAzGoRuE
+
 Due to XQuartz compatibility issues with the latest macOS, Coot 0.9 cannot be launched directly. As a workaround, we can run Coot 0.9.8.92 compiled for ARM Linux inside a virtual machine on Apple Silicon.
 
 1. Install UTM on macOS
